@@ -1,0 +1,7 @@
+c:\users\rayab\source\repos\LabNumber6GC\LabNumber6GC\bin\Debug\LabNumber6GC.exe.config
+c:\users\rayab\source\repos\LabNumber6GC\LabNumber6GC\bin\Debug\LabNumber6GC.exe
+c:\users\rayab\source\repos\LabNumber6GC\LabNumber6GC\bin\Debug\LabNumber6GC.pdb
+c:\users\rayab\source\repos\LabNumber6GC\LabNumber6GC\obj\Debug\LabNumber6GC.csprojResolveAssemblyReference.cache
+c:\users\rayab\source\repos\LabNumber6GC\LabNumber6GC\obj\Debug\LabNumber6GC.csproj.CoreCompileInputs.cache
+c:\users\rayab\source\repos\LabNumber6GC\LabNumber6GC\obj\Debug\LabNumber6GC.exe
+c:\users\rayab\source\repos\LabNumber6GC\LabNumber6GC\obj\Debug\LabNumber6GC.pdb
