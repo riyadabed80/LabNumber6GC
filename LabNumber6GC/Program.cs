@@ -11,14 +11,17 @@ namespace LabNumber6GC
         public static void Main(string[] args)
         {
 
+            Console.WriteLine("Welcome to the Grand Circus Casino!");
             bool UserContinue = true;
             while (UserContinue == true)
             {
-                Console.WriteLine("Welcome to the Grand Circus Casino! Roll the dice?");
+
+                Console.WriteLine("Roll the dice? y/n");
                 string start = Console.ReadLine();
                 if (start.ToLower() == "no" || start.ToLower() == "n")
                 {
                     UserContinue = false;
+                    continue;
                 }
 
 
